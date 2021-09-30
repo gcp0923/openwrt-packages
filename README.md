@@ -1,3 +1,11 @@
+https://github.com/gcp0923/openwrt-packages/blob/master/luci-app-ssr-plus/Makefile
+
+shadowsocks-libev-ss-redir 应该来自  https://github.com/gcp0923/packages
+https://github.com/gcp0923/packages/tree/master/net/shadowsocks-libev
+但是编译没有能生成
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzok8&show_icons=true&theme=radical)
 <div align="center">
 <h1 align="center"openwrt-packages</h1>
